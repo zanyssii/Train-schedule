@@ -1,0 +1,32 @@
+
+h1 {
+font-family: 'Montserrat', sans-serif;	
+ color: #F3EEF6;
+}
+
+
+
+.panel-heading {
+	background-color: blue;
+}
+
+.panel,  .panel-heading {
+    background-image: none;
+    background-color: #9E8FE9;
+    color: #001D8D;
+
+}
+
+.container {
+    margin-bottom: 1
+    0px;
+    background-color: #765E5E;;
+
+
+}
+
+.btn {
+	background: #9E8FE9;
+	color: #001D8D;
+}
+
